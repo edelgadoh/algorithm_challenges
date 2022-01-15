@@ -9,3 +9,8 @@ I added other common computer science problems with a good solution looking for 
 * MergeSort
 * QuickSort
 
+## Dynamic Programming problems
+* Knapsack Binary
+* Levenshtein Distance
+* N Queens
+
