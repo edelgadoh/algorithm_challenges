@@ -14,3 +14,8 @@ I added other common computer science problems with a good solution looking for 
 * Levenshtein Distance
 * N Queens
 
+## Graph algorithms
+* Depth First Search
+* Breadth First Search
+
+
