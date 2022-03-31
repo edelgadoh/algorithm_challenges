@@ -18,4 +18,6 @@ I added other common computer science problems with a good solution looking for 
 * Depth First Search
 * Breadth First Search
 
+## Exercises
+* Trap Water
 
