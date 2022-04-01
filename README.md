@@ -20,4 +20,5 @@ I added other common computer science problems with a good solution looking for 
 
 ## Exercises
 * Trap Water
+* Validate number
 
