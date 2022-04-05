@@ -12,7 +12,7 @@ I added other common computer science problems with a good solution looking for 
 ## Dynamic Programming problems
 * [Knapsack Binary Code](src/main/java/algorithm/dynamicProgramming/KnapsackBinary.java), [Knapsack Binary Test](src/test/java/algorithm/dynamicProgramming/KnapsackBinaryTest.java)
 * [Levenshtein Distance Code](src/main/java/algorithm/dynamicProgramming/LevenshteinDistance.java), [Levenshtein Distance Test](src/test/java/algorithm/dynamicProgramming/LevenshteinDistanceTest.java)
-* [NQueens Code](src/main/java/algorithm/dynamicProgramming/NQueens.java), [HeapSort Test](src/test/java/algorithm/dynamicProgramming/NQueensTest.java)
+* [NQueens Code](src/main/java/algorithm/dynamicProgramming/NQueens.java), [NQueens Test](src/test/java/algorithm/dynamicProgramming/NQueensTest.java)
 
 ## Graph algorithms
 * [Depth First Search Code](src/main/java/algorithm/graph/DFSAlgorithm.java), [Depth First Search Test](src/test/java/algorithm/graph/DFSAlgorithmTest.java)
