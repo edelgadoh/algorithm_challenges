@@ -23,6 +23,9 @@ Java.
   , [PartitionLinkedList Test](src/test/java/algorithm/linkedList/PartitionLinkedListTest.java)
 * [PalindromeLinkedList Code](src/main/java/algorithm/linkedList/PalindromeLinkedList.java)
     , [PalindromeLinkedList Test](src/test/java/algorithm/linkedList/PalindromeLinkedListTest.java)
+* [LoopDetectionLinkedList Code](src/main/java/algorithm/linkedList/LoopDetectionLinkedList.java)
+  , [LoopDetectionLinkedList Test](src/test/java/algorithm/linkedList/LoopDetectionLinkedListTest.java)
+
 
 ## Dynamic Programming problems
 
