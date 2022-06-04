@@ -9,6 +9,10 @@ I added other common computer science problems with a good solution looking for 
 * [MergeSort Code](src/main/java/algorithm/sorting/MergeSort.java), [HeapSort Test](src/test/java/algorithm/sorting/MergeSortTest.java)
 * [QuickSort Code](src/main/java/algorithm/sorting/QuickSort.java), [HeapSort Test](src/test/java/algorithm/sorting/QuickSortTest.java)
 
+## Linked List problems
+* [ReturnKthToLast Code](src/main/java/algorithm/linkedList/ReturnKthToLast.java), [ReturnKthToLast Test](src/test/java/algorithm/linkedList/ReturnKthToLastTest.java)
+
+
 ## Dynamic Programming problems
 * [Knapsack Binary Code](src/main/java/algorithm/dynamicProgramming/KnapsackBinary.java), [Knapsack Binary Test](src/test/java/algorithm/dynamicProgramming/KnapsackBinaryTest.java)
 * [Levenshtein Distance Code](src/main/java/algorithm/dynamicProgramming/LevenshteinDistance.java), [Levenshtein Distance Test](src/test/java/algorithm/dynamicProgramming/LevenshteinDistanceTest.java)
