@@ -11,6 +11,7 @@ I added other common computer science problems with a good solution looking for 
 
 ## Linked List problems
 * [ReturnKthToLast Code](src/main/java/algorithm/linkedList/ReturnKthToLast.java), [ReturnKthToLast Test](src/test/java/algorithm/linkedList/ReturnKthToLastTest.java)
+* [PartitionLinkedList Code](src/main/java/algorithm/linkedList/PartitionLinkedList.java), [PartitionLinkedList Test](src/test/java/algorithm/linkedList/PartitionLinkedListTest.java)
 
 
 ## Dynamic Programming problems
