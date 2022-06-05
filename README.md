@@ -51,6 +51,8 @@ Java.
   , [Validate number Test](src/test/java/algorithm/exercises/ValidateNumberTest.java)
 * [Three Sum Zero Code](src/main/java/algorithm/exercises/ThreeSumZero.java)
   , [Three Sum Zero Test](src/test/java/algorithm/exercises/ThreeSumZeroTest.java)
+* [Animal Shelter Code](src/main/java/algorithm/exercises/AnimalShelter.java)
+  , [Animal Shelter Test](src/test/java/algorithm/exercises/AnimalShelterTest.java)
 * [Sum Binary in String Code](src/main/java/algorithm/exercises/SumBinary.java)
   , [Sum Binary in String Test](src/test/java/algorithm/exercises/SumBinaryTest.java)
 
