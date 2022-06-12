@@ -46,7 +46,6 @@ Java.
   , [Minimal Tree Test](src/test/java/algorithm/graph/MinimalTreeTest.java)
 * [Tree operation Code](src/main/java/algorithm/graph/TreeOperation.java)
   , [Tree operation Test](src/test/java/algorithm/graph/TreeOperationTest.java)
-*
 
 ## General Exercises
 
