@@ -42,6 +42,11 @@ Java.
   , [Depth First Search Test](src/test/java/algorithm/graph/DFSAlgorithmTest.java)
 * [Breadth First Search Code](src/main/java/algorithm/graph/BFSAlgorithm.java)
   , [Breadth First Search Test](src/test/java/algorithm/graph/BFSAlgorithmTest.java)
+* [Minimal Tree Code](src/main/java/algorithm/graph/MinimalTree.java)
+  , [Minimal Tree Test](src/test/java/algorithm/graph/MinimalTreeTest.java)
+* [Tree operation Code](src/main/java/algorithm/graph/TreeOperation.java)
+  , [Tree operation Test](src/test/java/algorithm/graph/TreeOperationTest.java)
+*
 
 ## General Exercises
 
