@@ -63,5 +63,7 @@ Java.
   , [Animal Shelter Test](src/test/java/algorithm/exercises/AnimalShelterTest.java)
 * [Sum Binary in String Code](src/main/java/algorithm/exercises/SumBinary.java)
   , [Sum Binary in String Test](src/test/java/algorithm/exercises/SumBinaryTest.java)
+* [Party customer wait list Code](src/main/java/algorithm/exercises/PartyCustomerWaitList.java)
+  , [Party customer wait list Test](src/test/java/algorithm/exercises/PartyCustomerWaitListTest.java)
 
 
