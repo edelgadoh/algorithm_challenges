@@ -65,5 +65,5 @@ Java.
   , [Sum Binary in String Test](src/test/java/algorithm/exercises/SumBinaryTest.java)
 * [Party customer wait list Code](src/main/java/algorithm/exercises/PartyCustomerWaitList.java)
   , [Party customer wait list Test](src/test/java/algorithm/exercises/PartyCustomerWaitListTest.java)
-
-
+* [Pascal Triangle Code](src/main/java/algorithm/exercises/PascalTriangle.java)
+  , [Pascal Triangle Test](src/test/java/algorithm/exercises/PascalTriangleTest.java)
