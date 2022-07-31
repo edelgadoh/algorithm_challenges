@@ -67,3 +67,5 @@ Java.
   , [Party customer wait list Test](src/test/java/algorithm/exercises/PartyCustomerWaitListTest.java)
 * [Pascal Triangle Code](src/main/java/algorithm/exercises/PascalTriangle.java)
   , [Pascal Triangle Test](src/test/java/algorithm/exercises/PascalTriangleTest.java)
+* [All SubSets Code](src/main/java/algorithm/exercises/AllSubSets.java)
+  , [All SubSets Test](src/test/java/algorithm/exercises/AllSubSetsTest.java)
