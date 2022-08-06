@@ -69,3 +69,5 @@ Java.
   , [Pascal Triangle Test](src/test/java/algorithm/exercises/PascalTriangleTest.java)
 * [All SubSets Code](src/main/java/algorithm/exercises/AllSubSets.java)
   , [All SubSets Test](src/test/java/algorithm/exercises/AllSubSetsTest.java)
+* [Card Deck Code](src/main/java/algorithm/exercises/CardDeck.java)
+  , [Card Deck Test](src/test/java/algorithm/exercises/CardDeckTest.java)
