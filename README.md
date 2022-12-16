@@ -73,3 +73,5 @@ Java.
   , [Card Deck Test](src/test/java/algorithm/exercises/CardDeckTest.java)
 * [Robot Grid Code](src/main/java/algorithm/exercises/RobotGrid.java)
   , [Robot Grid Test](src/test/java/algorithm/exercises/RobotGridTest.java)
+* [Palindrome Next Number Code](src/main/java/algorithm/exercises/PalindromeNextNumber.java)
+  , [Palindrome Next Number Test](src/test/java/algorithm/exercises/PalindromeNextNumberTest.java)
