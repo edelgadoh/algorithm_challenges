@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 class PalindromeNextNumberTest {
 
     @Test
-    void findNextTest() {
+    void findPalindromeNextNumberTest() {
 
         PalindromeNextNumber palindromeNextNumber = new PalindromeNextNumber();
         String nextNumber01 = palindromeNextNumber.find("234567");

@@ -18,7 +18,7 @@ public class PalindromeNextNumber {
         int size = charArray.length;
         Integer[] numberArray = new Integer[size];
         for (int i = 0; i < charArray.length / 2; i++) {
-            int digit = charArray[i] - '0'; //Character.getNumericValue(charArray[i]);
+            int digit = charArray[i] - '0';
             numberArray[i] = digit;
             numberArray[size - 1 - i] = digit;
         }
