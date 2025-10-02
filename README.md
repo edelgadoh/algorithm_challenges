@@ -1,5 +1,7 @@
 # algorithm_challenges
 
+# Update to run on JDK 25
+
 Some useful algorithms that I usually review before any Software Engineer interview.
 The implementation is on Java.
 
