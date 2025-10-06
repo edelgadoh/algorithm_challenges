@@ -77,3 +77,5 @@ Java.
   , [Robot Grid Test](src/test/java/algorithm/exercises/RobotGridTest.java)
 * [Palindrome Next Number Code](src/main/java/algorithm/exercises/PalindromeNextNumber.java)
   , [Palindrome Next Number Test](src/test/java/algorithm/exercises/PalindromeNextNumberTest.java)
+* [Socks Laundering Code](src/main/java/algorithm/exercises/SocksLaundering.java)
+  , [Socks Laundering Test](src/test/java/algorithm/exercises/SocksLaunderingTest.java)
