@@ -79,3 +79,5 @@ Java.
   , [Palindrome Next Number Test](src/test/java/algorithm/exercises/PalindromeNextNumberTest.java)
 * [Socks Laundering Code](src/main/java/algorithm/exercises/SocksLaundering.java)
   , [Socks Laundering Test](src/test/java/algorithm/exercises/SocksLaunderingTest.java)
+* [Waiter Code](src/main/java/algorithm/exercises/Waiter.java)
+  , [Waiter Test](src/test/java/algorithm/exercises/WaiterTest.java)
