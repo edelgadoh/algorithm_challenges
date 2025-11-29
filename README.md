@@ -81,3 +81,5 @@ Java.
   , [Socks Laundering Test](src/test/java/algorithm/exercises/SocksLaunderingTest.java)
 * [Waiter Code](src/main/java/algorithm/exercises/Waiter.java)
   , [Waiter Test](src/test/java/algorithm/exercises/WaiterTest.java)
+* [Top K User Inscription](src/main/java/algorithm/exercises/UserInscription.java)
+  , [Top K User Inscription Test](src/test/java/algorithm/exercises/UserInscriptionTest.java)
