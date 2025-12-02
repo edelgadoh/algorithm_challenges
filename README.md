@@ -83,3 +83,9 @@ Java.
   , [Waiter Test](src/test/java/algorithm/exercises/WaiterTest.java)
 * [Top K User Inscription](src/main/java/algorithm/exercises/UserInscription.java)
   , [Top K User Inscription Test](src/test/java/algorithm/exercises/UserInscriptionTest.java)
+
+
+## Chacking 
+
+* [Palindrome Permutation Code](src/main/java/algorithm/cracking/PalindromePermutation.java)
+  , [Palindrome Permutation Test](src/test/java/algorithm/cracking/PalindromePermutationTest.java)
