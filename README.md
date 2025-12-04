@@ -85,7 +85,7 @@ Java.
   , [Top K User Inscription Test](src/test/java/algorithm/exercises/UserInscriptionTest.java)
 
 
-## Chacking 
+## Cracking the code interview exercises
 
 * [Palindrome Permutation Code](src/main/java/algorithm/cracking/arrays/PalindromePermutation.java)
   , [Palindrome Permutation Test](src/test/java/algorithm/cracking/arrays/PalindromePermutationTest.java)
