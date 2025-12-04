@@ -1,14 +1,21 @@
-package algorithm.cracking;
+package algorithm.cracking.arrays;
 
-public class Chapter01OneWay {
-    public static void main(String[] args) {
-        System.out.println(Chapter01OneWay.checkOneWay("pale", "ple"));
-        System.out.println(Chapter01OneWay.checkOneWay("pales", "pale"));
-        System.out.println(Chapter01OneWay.checkOneWay("pale", "bale"));
-        System.out.println(Chapter01OneWay.checkOneWay("pale", "bake"));
-    }
+/**
+ * One Away:
+ * There are three types of edits that can be performed on strings: insert a character, remove a character, or replace a character. Given two strings, write a function to check if they are
+ * one edit (or zero edits) away.
+ * EXAMPLE
+ * pale, ple -> true
+ * pales, pale -> true
+ * pale, bale -> true
+ * pale, bae -> false
+ */
+public class OneWay {
 
-    private static boolean checkOneWay(String stringOne, String stringTwo) {
+    public boolean checkOneWay(String stringOne, String stringTwo) {
+
+        if(stringOne == null || stringTwo == null) return false;
+        if (stringOne.equals(stringTwo)) return true;
 
         int i = 0, j = 0;
         while (i < stringOne.length() && j < stringTwo.length()) {

@@ -87,5 +87,7 @@ Java.
 
 ## Chacking 
 
-* [Palindrome Permutation Code](src/main/java/algorithm/cracking/PalindromePermutation.java)
-  , [Palindrome Permutation Test](src/test/java/algorithm/cracking/PalindromePermutationTest.java)
+* [Palindrome Permutation Code](src/main/java/algorithm/cracking/arrays/PalindromePermutation.java)
+  , [Palindrome Permutation Test](src/test/java/algorithm/cracking/arrays/PalindromePermutationTest.java)
+* [One Way Code](src/main/java/algorithm/cracking/arrays/OneWay.java)
+  , [One Way Test](src/test/java/algorithm/cracking/arrays/OneWayTest.java)

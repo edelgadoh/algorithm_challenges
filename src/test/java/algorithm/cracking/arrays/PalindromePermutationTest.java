@@ -1,4 +1,4 @@
-package algorithm.cracking;
+package algorithm.cracking.arrays;
 
 import org.junit.jupiter.api.Test;
 
