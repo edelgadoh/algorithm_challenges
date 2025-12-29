@@ -91,3 +91,6 @@ Java.
   , [Palindrome Permutation Test](src/test/java/algorithm/cracking/arrays/PalindromePermutationTest.java)
 * [One Way Code](src/main/java/algorithm/cracking/arrays/OneWay.java)
   , [One Way Test](src/test/java/algorithm/cracking/arrays/OneWayTest.java)
+* [Rotate Matrix Code](src/main/java/algorithm/cracking/arrays/RotateMatrix.java)
+  , [Rotate Matrix Test](src/test/java/algorithm/cracking/arrays/RotateMatrixTest.java)
+
