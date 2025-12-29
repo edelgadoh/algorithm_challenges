@@ -14,39 +14,28 @@ public class OneWay {
 
     public boolean checkOneWay(String stringOne, String stringTwo) {
 
-        if(stringOne == null || stringTwo == null) return false;
+        if (stringOne == null || stringTwo == null) return false;
         if (stringOne.equals(stringTwo)) return true;
 
-        int i = 0, j = 0;
+        var i = 0;
+        var j = 0;
         while (i < stringOne.length() && j < stringTwo.length()) {
-            int lengthOne = stringOne.substring(i).length();
-            int lengthTwo = stringTwo.substring(j).length();
+            var lengthOne = stringOne.substring(i).length();
+            var lengthTwo = stringTwo.substring(j).length();
             if (stringOne.charAt(i) == stringTwo.charAt(j)) {
                 i++;
                 j++;
             } else {
                 if (lengthOne < lengthTwo) {
                     j++;
-                    if (stringOne.substring(i).equals(stringTwo.substring(j))) {
-                        return true;
-                    } else {
-                        return false;
-                    }
+                    return stringOne.substring(i).equals(stringTwo.substring(j));
                 } else if (lengthOne > lengthTwo) {
                     i++;
-                    if (stringOne.substring(i).equals(stringTwo.substring(j))) {
-                        return true;
-                    } else {
-                        return false;
-                    }
+                    return stringOne.substring(i).equals(stringTwo.substring(j));
                 } else {
                     i++;
                     j++;
-                    if (stringOne.substring(i).equals(stringTwo.substring(j))) {
-                        return true;
-                    } else {
-                        return false;
-                    }
+                    return stringOne.substring(i).equals(stringTwo.substring(j));
                 }
             }
 
