@@ -83,6 +83,8 @@ Java.
   , [Waiter Test](src/test/java/algorithm/exercises/WaiterTest.java)
 * [Top K User Inscription](src/main/java/algorithm/exercises/UserInscription.java)
   , [Top K User Inscription Test](src/test/java/algorithm/exercises/UserInscriptionTest.java)
+* [Rotated Sorted Array](src/main/java/algorithm/exercises/RotatedSortedArray.java)
+  , [Rotated Sorted Array Test](src/test/java/algorithm/exercises/RotatedSortedArrayTest.java)
 
 
 ## Cracking the code interview exercises
