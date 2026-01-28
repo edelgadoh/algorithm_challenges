@@ -95,4 +95,6 @@ Java.
   , [One Way Test](src/test/java/algorithm/cracking/arrays/OneWayTest.java)
 * [Rotate Matrix Code](src/main/java/algorithm/cracking/arrays/RotateMatrix.java)
   , [Rotate Matrix Test](src/test/java/algorithm/cracking/arrays/RotateMatrixTest.java)
+* [Remove Duplications Code](src/main/java/algorithm/cracking/linkedlist/RemoveDuplications.java)
+  , [Remove Duplications Test](src/test/java/algorithm/cracking/linkedlist/RemoveDuplicationsTest.java)
 
