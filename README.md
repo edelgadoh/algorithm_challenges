@@ -97,4 +97,7 @@ Java.
   , [Rotate Matrix Test](src/test/java/algorithm/cracking/arrays/RotateMatrixTest.java)
 * [Remove Duplications Code](src/main/java/algorithm/cracking/linkedlist/RemoveDuplications.java)
   , [Remove Duplications Test](src/test/java/algorithm/cracking/linkedlist/RemoveDuplicationsTest.java)
-
+* [Delete Middle Node Code](src/main/java/algorithm/cracking/linkedlist/DeleteMiddleNode.java)
+  , [Delete Middle Node Test](src/test/java/algorithm/cracking/linkedlist/DeleteMiddleNodeTest.java)
+* [Check Palindrome Code](src/main/java/algorithm/cracking/linkedlist/CheckPalindrome.java)
+  , [Check Palindrome Test](src/test/java/algorithm/cracking/linkedlist/CheckPalindromeTest.java)
