@@ -16,8 +16,8 @@ public class AnimalShelter {
     Queue<Cat> queueCats = new LinkedList<>();
 
     void enqueue(Animal animal) {
-        if (animal instanceof Dog) queueDogs.offer((Dog) animal);
-        else if (animal instanceof Cat) queueCats.offer((Cat) animal);
+        if (animal instanceof Dog dog) queueDogs.offer(dog);
+        else if (animal instanceof Cat cat) queueCats.offer(cat);
         else throw new RuntimeException("Unsupported animal");
     }
 
@@ -48,8 +48,8 @@ public class AnimalShelter {
     @SuperBuilder
     @ToString
     abstract static class Animal {
-        String name;
-        LocalDateTime arrivalDate;
+        private String name;
+        private LocalDateTime arrivalDate;
     }
 
     @SuperBuilder
