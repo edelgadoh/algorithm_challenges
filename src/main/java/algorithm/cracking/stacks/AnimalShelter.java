@@ -1,6 +1,5 @@
-package algorithm.exercises;
+package algorithm.cracking.stacks;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
@@ -26,8 +25,8 @@ public class AnimalShelter {
         if (queueDogs.isEmpty()) return dequeueCat();
         if (queueCats.isEmpty()) return dequeueDog();
 
-        Dog oldDog = queueDogs.peek();
-        Cat oldCat = queueCats.peek();
+        var oldDog = queueDogs.peek();
+        var oldCat = queueCats.peek();
         if (oldDog.getArrivalDate().isBefore(oldCat.getArrivalDate())) {
             return dequeueDog();
         } else {
@@ -44,23 +43,23 @@ public class AnimalShelter {
     }
 
 
-}
+    @Getter
+    @NoArgsConstructor
+    @SuperBuilder
+    @ToString
+    abstract static class Animal {
+        String name;
+        LocalDateTime arrivalDate;
+    }
 
-@Getter
-@NoArgsConstructor
-@SuperBuilder
-@ToString
-abstract class Animal {
-    String name;
-    LocalDateTime arrivalDate;
-}
+    @SuperBuilder
+    @Getter
+    static class Dog extends Animal {
+    }
 
-@SuperBuilder
-@Getter
-class Dog extends Animal {
-}
+    @SuperBuilder
+    @Getter
+    static class Cat extends Animal {
+    }
 
-@SuperBuilder
-@Getter
-class Cat extends Animal {
 }

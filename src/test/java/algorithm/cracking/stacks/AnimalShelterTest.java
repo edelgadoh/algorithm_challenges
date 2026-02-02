@@ -1,5 +1,7 @@
-package algorithm.exercises;
+package algorithm.cracking.stacks;
 
+import algorithm.cracking.stacks.AnimalShelter.Cat;
+import algorithm.cracking.stacks.AnimalShelter.Dog;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -64,6 +66,7 @@ class AnimalShelterTest {
         Assertions.assertTrue(animalShelter.dequeueDog().isEmpty());
 
     }
+
     @Test
     void dequeueCat() {
 
