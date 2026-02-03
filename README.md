@@ -101,5 +101,5 @@ Java.
   , [Check Palindrome Test](src/test/java/algorithm/cracking/linkedlist/CheckPalindromeTest.java)
 * [Stack Min Code](src/main/java/algorithm/cracking/stacks/StackMin.java)
   , [Stack Min Test](src/test/java/algorithm/cracking/stacks/StackMinTest.java)
-  [Animal Shelter Code](src/main/java/algorithm/cracking/stacks/AnimalShelter.java)
+* [Animal Shelter Code](src/main/java/algorithm/cracking/stacks/AnimalShelter.java)
   , [Animal Shelter Test](src/test/java/algorithm/cracking/stacks/AnimalShelterTest.java)
