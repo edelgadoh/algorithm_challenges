@@ -103,3 +103,5 @@ Java.
   , [Stack Min Test](src/test/java/algorithm/cracking/stacks/StackMinTest.java)
 * [Animal Shelter Code](src/main/java/algorithm/cracking/stacks/AnimalShelter.java)
   , [Animal Shelter Test](src/test/java/algorithm/cracking/stacks/AnimalShelterTest.java)
+* [Triple Stairs Code](src/main/java/algorithm/cracking/recursive/TripleStep.java)
+  , [Triple Stairs Test](src/test/java/algorithm/cracking/recursive/TripleStepTest.java)
