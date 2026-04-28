@@ -107,3 +107,5 @@ Java.
   , [Triple Stairs Test](src/test/java/algorithm/cracking/recursive/TripleStepTest.java)
 * [Robot in Grid with Single Path Code](src/main/java/algorithm/cracking/recursive/RobotInGridPath.java)
   , [Robot in Grid with Single Path Test](src/test/java/algorithm/cracking/recursive/RobotInGridPathTest.java)
+* [PowerSet Code](src/main/java/algorithm/cracking/recursive/PowerSet.java)
+  , [PowerSet Test](src/test/java/algorithm/cracking/recursive/PowerSetTest.java)
