@@ -109,3 +109,5 @@ Java.
   , [Robot in Grid with Single Path Test](src/test/java/algorithm/cracking/recursive/RobotInGridPathTest.java)
 * [PowerSet Code](src/main/java/algorithm/cracking/recursive/PowerSet.java)
   , [PowerSet Test](src/test/java/algorithm/cracking/recursive/PowerSetTest.java)
+* [Recursive Multiply Code](src/main/java/algorithm/cracking/recursive/RecursiveMultiply.java)
+  , [Recursive Multiply Test](src/test/java/algorithm/cracking/recursive/RecursiveMultiplyTest.java)
