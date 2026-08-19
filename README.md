@@ -111,3 +111,5 @@ Java.
   , [PowerSet Test](src/test/java/algorithm/cracking/recursive/PowerSetTest.java)
 * [Recursive Multiply Code](src/main/java/algorithm/cracking/recursive/RecursiveMultiply.java)
   , [Recursive Multiply Test](src/test/java/algorithm/cracking/recursive/RecursiveMultiplyTest.java)
+* [Hanoi Code](src/main/java/algorithm/cracking/recursive/Hanoi.java)
+  , [Hanoi Test](src/test/java/algorithm/cracking/recursive/HanoiTest.java)
