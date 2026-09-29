@@ -83,6 +83,8 @@ Java.
   , [Top K User Inscription Test](src/test/java/algorithm/exercises/UserInscriptionTest.java)
 * [Rotated Sorted Array](src/main/java/algorithm/exercises/RotatedSortedArray.java)
   , [Rotated Sorted Array Test](src/test/java/algorithm/exercises/RotatedSortedArrayTest.java)
+* [Next Permutation Number](src/main/java/algorithm/exercises/NextPermutationNumber.java)
+  , [Next Permutation Number Test](src/test/java/algorithm/exercises/NextPermutationNumberTest.java)
 
 
 ## Cracking the code interview exercises
